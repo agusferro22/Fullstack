@@ -1,0 +1,28 @@
+{
+  "name": "dv-ah-01-parcial",
+  "version": "1.0.0",
+  "description": "Parcial #1 - Aplicaciones Híbridas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Agustín",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "module": "^1.2.5",
+    "modules": "^0.4.0",
+    "mongoose": "^8.8.2",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "dv-ah-02-parcial-main",
+  "version": "1.0.0",
+  "description": "Este proyecto es una aplicación que permite a los usuarios crear, visualizar, editar y eliminar **posteos** y **comentarios**. Se desarrolló utilizando un stack MERN (MongoDB, Express, React, Node.js) y está diseñado para gestionar datos de manera eficiente mediante una API RESTful conectada a una base de datos MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
